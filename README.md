@@ -1,2 +1,2 @@
-# WPI
-Projekty na przedmiot: Wstęp do programowanie(podejście funkcyjne) na rok 2020/2021
+# Introduction to programming(imperative approach)
+Parental directory for all projects done throughout the whole semester.
